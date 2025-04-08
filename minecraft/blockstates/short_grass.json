@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": 
+	[
+	{      "model": "minecraft:block/short_grass/short_grass1"},
+	{      "model": "minecraft:block/short_grass/short_grass2"},
+	{      "model": "minecraft:block/short_grass/short_grass3"},
+	{      "model": "minecraft:block/short_grass"}
+	]
+  }
+}

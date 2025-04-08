@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": 
+	[
+	{      "model": "minecraft:block/dandelion", "weight": 30},
+	{      "model": "minecraft:block/dandelion/dandelion1", "weight": 30},
+	{      "model": "minecraft:block/dandelion/dandelion2", "weight": 20},
+	{      "model": "minecraft:block/dandelion/dandelion3", "weight": 5},
+	{      "model": "minecraft:block/dandelion/dandelion4", "weight": 5},
+	{      "model": "minecraft:block/dandelion/dandelion5", "weight": 30},
+	{      "model": "minecraft:block/dandelion/dandelion6", "weight": 30}
+	]
+  }
+}

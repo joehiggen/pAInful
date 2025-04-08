@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "":
+	[
+	{	"model": "minecraft:block/yellow_concrete", 	"weight": 55},
+	{	"model": "minecraft:block/yellow_concrete/yellow_concrete1", 	"weight": 55},
+	{	"model": "minecraft:block/yellow_concrete/yellow_concrete2", 	"weight": 100},
+	{	"model": "minecraft:block/yellow_concrete/yellow_concrete3", 	"weight": 35},
+	{	"model": "minecraft:block/yellow_concrete/yellow_concrete4", 	"weight": 25},
+	{	"model": "minecraft:block/yellow_concrete/yellow_concrete5", 	"weight": 15},
+	{	"model": "minecraft:block/yellow_concrete/yellow_concrete6", 	"weight": 45}
+	]
+  }
+}
+
